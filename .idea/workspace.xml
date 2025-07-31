@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47938c56-7036-465e-8d36-8d1d39dec02a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/df.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Real Estate App/df.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model-selection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model-selection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Real Estate App/pages/2_Analysis App.py" beforeDir="false" afterPath="$PROJECT_DIR$/Real Estate App/pages/2_Analysis App.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Real Estate Capstone Project\Real Estate App\Datasets" />
       <recent name="C:\Real Estate Capstone Project\Real Estate App" />
     </key>
   </component>
@@ -68,6 +70,8 @@
       <updated>1753803571595</updated>
       <workItem from="1753803574163" duration="1682000" />
       <workItem from="1753938705149" duration="6311000" />
+      <workItem from="1753946199384" duration="1352000" />
+      <workItem from="1753974988911" duration="734000" />
     </task>
     <servers />
   </component>
