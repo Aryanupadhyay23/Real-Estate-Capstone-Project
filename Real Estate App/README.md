@@ -59,46 +59,6 @@ With **adjustable sliders**, you control the importance of each factor and get a
 
 ---
 
-## 🚀 Getting Started
-
-> ⚠️ Ensure all required `.pkl` and `.csv` files are available in correct directories as used in the app scripts.
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Aryanupadhyay23/real-estate-gurgaon-app.git
-cd real-estate-gurgaon-app
-```
-
-### 2. Set up the Virtual Environment
-```bash
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-pip install -r requirements.txt
-```
-
-### 3. Run the App
-```bash
-streamlit run Home.py
-```
-
-> Make sure all dependent files like `pipeline.pkl`, `df.pkl`, `data_viz1.csv`, and similarity matrices are correctly referenced or placed in the correct folders.
-
----
-
-## 📁 Project Structure
-
-```
-.
-├── Home.py                    # Home page - intro, overview, module links
-├── 1_Price Predictor.py       # Price prediction module
-├── 2_Analysis App.py          # Interactive analytics dashboard
-├── 3_Recommend Socities.py    # Society recommendation engine
-├── Datasets/                  # CSVs, pickles (viz data, wordcloud, etc.)
-└── README.md                  # This file
-```
-
----
-
 ## 👤 Author
 
 **Aryan Upadhyay**  
